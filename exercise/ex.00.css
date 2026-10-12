@@ -1,0 +1,17 @@
+HTML {background-color: peachpuff;}
+
+A {color: lawngreen}
+
+UL {color: red;}
+h1 {
+background-color: rgb(16, 29, 112);
+color:rgb(114, 192, 192);
+front-weight: noral;
+}
+
+P { 
+    background-color: cornsilk;
+    padding: 50px;
+    margin: 50px;
+    font-size: 8px;
+}

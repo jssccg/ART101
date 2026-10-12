@@ -1,0 +1,26 @@
+HTML {background-color: peachpuff;}
+
+A {color: lawngreen}
+
+UL {color: red;}
+h1 {
+background-color: rgb(16, 29, 112);
+color:rgb(114, 192, 192);
+front-weight: noral;
+}
+
+P { 
+    background-color: cornsilk;
+    padding: 20px;
+    margin: 50px;
+    
+}
+
+IMG {
+    display:block; 
+    margin-left: auto; 
+    margin-right: auto;
+    width: 50%;
+}
+
+#beyonce { width: 70%; }
